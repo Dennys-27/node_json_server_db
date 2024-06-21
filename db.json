@@ -1,0 +1,78 @@
+{
+  "profesores": [
+    {
+      "nombre": "Dennys",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "92f6"
+    },
+    {
+      "0": {
+        "nombre": "Fernada",
+        "apellido": "Perez",
+        "materias": [
+          {
+            "nombre": "Power BY"
+          },
+          {
+            "nombre": "Sprin Boo"
+          },
+          {
+            "nombre": "Quimica"
+          }
+        ]
+      },
+      "id": "d290"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Mafer",
+      "apellido": "Basurto",
+      "promedio": 8.5,
+      "id": "e411"
+    },
+    {
+      "nombre": "Carolina",
+      "apellido": "Mendoza",
+      "promedio": 10,
+      "id": "d59b"
+    },
+    {
+      "nombre": "Jenniffer",
+      "apellido": "Camacho",
+      "promedio": 7.2,
+      "id": "9258"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "PHP",
+      "duracion": 7,
+      "dificutal": "Intermedia",
+      "id": "73a3"
+    },
+    {
+      "nombre": "Angular",
+      "duracion": 7,
+      "dificutal": "Avanzada",
+      "id": "0785"
+    },
+    {
+      "nombre": "Java",
+      "duracion": 7,
+      "dificutal": "Basica",
+      "id": "1682"
+    }
+  ]
+}

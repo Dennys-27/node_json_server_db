@@ -1,0 +1,14 @@
+{
+  "name": "parte-dos-proyecto",
+  "version": "0.0.1",
+  "description": "Armaremos un pequeño proyecto",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Sergie Code",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
